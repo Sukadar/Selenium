@@ -15,9 +15,9 @@ signup:
   base_url_facebook: https://facebook.com
   base_url_twitter: https://twitter.com
 admin:
-  base_url: https://admin-smiley.socialmedialink.com
-  email: tripthi.testmember2@socialmedialink.com
-  pass: 12345678
+  base_url: https://admin-staging.socialmedialink.com
+  email: sukada.testmember11@socialmedialink.com
+  pass: general1234
 member: 
   base_url: https://tripsprint59.socialmedialink.com
   email: karen.baker@yopmail.com
