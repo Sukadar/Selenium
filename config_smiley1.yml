@@ -19,7 +19,7 @@ admin:
   email: sukada.testmember11@socialmedialink.com
   pass: general1234
 member: 
-  base_url: https://febtest-staging.socialmedialink.com
+  base_url: https://febtest-staging.socialmedialink.com/
   email: sukada.testmember1@socialmedialink.com
   pass: general1234
   
